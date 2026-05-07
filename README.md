@@ -6,7 +6,7 @@ Objetivo: O primeiro jogador que conseguir fazer um conjunto de 3 com seu respec
 
 Quantidade de Jogadores: 2
 
-Requerimentos: Uma matriz 3x3;
+Requerimentos:	 Uma matriz 3x3;
 	             Peça com sinal X;
-               Peca com sinal O;
+                 Peca com sinal O;
 
